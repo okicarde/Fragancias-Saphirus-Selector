@@ -10,6 +10,6 @@ Cuando se presione por un tiempo sobre un elemento, se debe extender un panel pa
 
 <li>Otros: Analizar otros posibles layouts.</li><br>
 
-<button href='https://fragancias-saphirus-selector-mwfuq873o-okicarde.vercel.app/'>Web live</button>
+<a href='https://fragancias-saphirus-selector-mwfuq873o-okicarde.vercel.app/'>Web live</a>
 
 ![Screenshot](docs/imgs/img1.png?raw=true "Screenshot")
